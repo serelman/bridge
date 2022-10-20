@@ -1,0 +1,6 @@
+.bridge-board {
+    background: #f3f4ff;
+    display: flex;
+    padding: 4rem;
+    justify-content: space-between;
+}

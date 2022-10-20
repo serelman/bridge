@@ -1,0 +1,11 @@
+.home-page .container {
+    max-width: 980px;
+}
+
+.home-page__content {
+    margin-top: 72px;
+}
+
+.home-page__subtitle {
+    color: #6B7380;
+}

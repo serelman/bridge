@@ -1,0 +1,13 @@
+.bridge-card {
+    min-width: 226px;
+    height: 314px;
+}
+
+.bridge-card--flipped {
+    border: 1px solid #333;
+    background-color: #fff;
+    border-radius: 12px;
+    background-size: 80px 90px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
